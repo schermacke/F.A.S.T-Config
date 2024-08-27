@@ -1,0 +1,14 @@
+<svg width="130" height="130" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 22">
+<path id="Polygon 8" d="M36.5 2.02073C38.6658 0.770296 41.3342 0.770296 43.5 2.02073L71.141 17.9793C73.3068 19.2297 74.641 21.5406 74.641 24.0415V55.9585C74.641 58.4594 73.3068 60.7703 71.141 62.0207L43.5 77.9793C41.3342 79.2297 38.6658 79.2297 36.5 77.9793L8.85898 62.0207C6.69317 60.7703 5.35898 58.4594 5.35898 55.9585V24.0415C5.35898 21.5406 6.69317 19.2297 8.85898 17.9793L36.5 2.02073Z" fill="#2F80ED"/>
+<g id="Group 21">
+<path id="Vector" d="M40 28V32.9286" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M25 36.2142V46.0714" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M36.666 28H43.3326" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M28.3333 41.1428H25" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M30 36.2143H33.3333L36.6665 32.9286H42.3031C42.6125 32.9288 42.9158 33.0138 43.179 33.1743C43.4421 33.3347 43.6548 33.5642 43.7931 33.8371L46.2064 38.5915C46.3447 38.8644 46.5573 39.0939 46.8205 39.2543C47.0836 39.4148 47.3869 39.4999 47.6963 39.5H49.9996V36.2143H53.3329C53.7749 36.2143 54.1988 36.3874 54.5114 36.6955C54.8239 37.0036 54.9995 37.4214 54.9995 37.8572V47.7143C54.9995 48.15 54.8239 48.5679 54.5114 48.876C54.1988 49.1841 53.7749 49.3572 53.3329 49.3572H49.9996V46.0714H44.9997V49.3572C44.9997 49.7929 44.8241 50.2107 44.5116 50.5188C44.199 50.8269 43.7751 51 43.3331 51H37.5582C37.2839 51.0001 37.0138 50.9334 36.7719 50.8058C36.53 50.6783 36.3238 50.4939 36.1716 50.2689L33.3333 46.0714H30V36.2143Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<line id="Line 29" x1="21" y1="22" x2="21" y2="57" stroke="white" stroke-width="2"/>
+<line id="Line 30" x1="59" y1="22" x2="59" y2="57" stroke="white" stroke-width="2"/>
+</g>
+</svg>
